@@ -93,7 +93,7 @@ This repository contains a **quran app** that implements RXjava , mvvm architect
     ├──MainActivity.kt
     └── Application.kt 
 
-##LICENSE
+## LICENSE
 ```MIT License
 
 Copyright (c) 2022 adelayman1
