@@ -1,12 +1,13 @@
-# QuranAppRXjava :book:
-This repository contains a quran app that implements mvvm architecture , clean architecture , navigation component , hilt , etc.... using kotlin language
-
-
-![](https://github.com/adelayman1/QuranApp./blob/master/images/allAppImage.jpg)
+# QuranAppRXjava :book: 
 
 <a href="https://www.linkedin.com/in/adel-ayman-2497ab1b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+This repository contains a **quran app** that implements RXjava , mvvm architecture , clean architecture , navigation component , hilt , etc.... using kotlin language
+
+
+![](https://github.com/adelayman1/QuranApp./blob/master/images/allAppImage.jpg)
 
 ## App Overview
 
